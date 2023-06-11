@@ -1,10 +1,5 @@
-# <!-- SHUBCONFIG --> Hi 😊, welcome to ShubCoGen Template!
-## <!-- SHUBCONFIG --> 🏃‍♂️ Run `./init.sh` to configure your project.
-## <!-- SHUBCONFIG --> 👉 Access the docs [here](./.shub/README.md)
-## <!-- SHUBCONFIG --> ![](.shub/shub-cli.png)
-## <!-- SHUBCONFIG --> <hr>
 
-# <p align="center">{{ PROJECT_NAME }}</p>
+# <p align="center">t-VH Quiz Code Deeded</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED" alt="Docker" />
@@ -24,7 +19,7 @@
 
 ## 💬 About
 
-This project was developed following {{ COURSE_SOURCE }}'s "[{{ COURSE_NAME }}]({{ COURSE_LINK }})" {{ COURSE_TYPE }}.
+This project was developed following 's "[]()" class.
 
 ## :computer: Technologies
 
@@ -46,11 +41,11 @@ This project was developed following {{ COURSE_SOURCE }}'s "[{{ COURSE_NAME }}](
 ## :cd: Installation
 
 ```sh
-git clone git@github.com:{{ GITHUB_USER }}/{{ PROJECT_REPO_NAME }}.git
+git clone git@github.com:filipe1309/t-vh-quiz-code-deeded.git
 ```
 
 ```sh
-cd {{ PROJECT_REPO_NAME }}
+cd t-vh-quiz-code-deeded
 ```
 
 ## :runner: Running
@@ -82,18 +77,18 @@ Please make sure to update tests as appropriate. -->
 ## About Me
 
 <p align="center">
-    <a style="font-weight: bold" href="https://github.com/{{ GITHUB_USER }}/">
-    <img style="border-radius:50%" width="100px; "src="https://github.com/{{ GITHUB_USER }}.png"/>
+    <a style="font-weight: bold" href="https://github.com/filipe1309/">
+    <img style="border-radius:50%" width="100px; "src="https://github.com/filipe1309.png"/>
     </a>
 </p>
 
 ---
 
 <p align="center">
-    Done with&nbsp;&nbsp;:heart:&nbsp;&nbsp;by <a style="font-weight: bold" href="https://github.com/{{ GITHUB_USER }}/">{{ GIT_USERNAME }}</a> 🖖
+    Done with&nbsp;&nbsp;:heart:&nbsp;&nbsp;by <a style="font-weight: bold" href="https://github.com/filipe1309/">Filipe Leuch Bonfim</a> 🖖
 </p>
 
 ---
 
-> @ Generated with [ShubcoGen Template™](https://github.com/filipe1309/shubcogen-template) {{ VERSION }}  
+> @ Generated with [ShubcoGen Template™](https://github.com/filipe1309/shubcogen-template)   
 > ❓ [Docs](./.shub/README.md)
