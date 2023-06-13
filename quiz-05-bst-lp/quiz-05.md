@@ -39,15 +39,7 @@ function longestBranch(tree?: TreeNode): number{}
 
 ## Please explain your solution
 
-The solution utilizes recursive traversal to calculate the sum of values in 
-each branch of the tree. The longest branch is determined by comparing the sums 
-of the branch values.
-
-The longestBranch method takes a tree node and a sum as parameters. 
-The sum keeps track of the values in the current branch. When the tree node is 
-null, the method returns the sum of the current branch's values. Otherwise, 
-the method recursively calls itself on the right and left nodes of the current 
-node. Before the recursive calls, the current branch's sum is incremented by 
-the value of the current node. The longest branch is determined by comparing 
-the sums of the right and left branches.
-
+The idea is to recursively traverse the given binary tree and for each node, 
+find the length of the longest path in the left and right subtree. And then,
+compare the left and right subtree and choose the largest one. 
+Finally, return the sum of nodes present in the longest path as an Array.
