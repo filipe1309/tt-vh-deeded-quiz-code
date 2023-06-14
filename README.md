@@ -10,7 +10,7 @@
 
 ## 💬 About
 
-This project was developed to solve the quiz questions from the a job interview.
+This project was developed to solve the quiz questions from the a job interview for a Full Stack Developer (React/Laravel) position.
 
 ## :computer: Technologies
 
